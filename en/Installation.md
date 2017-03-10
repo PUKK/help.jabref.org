@@ -135,6 +135,11 @@ Based on: <http://tecadmin.net/install-java-8-on-debian/>
 2. Install with `sudo yum localinstall jre-[Version]-linux-[BIT].rpm` include the most recent Java version for `[Version]` and `i586` or `x64` for `[BIT]` depending on your OS version
 
 
+### OpenSuse and Oracle Java
+
+Follow the description at the OpenSuse web page: https://en.opensuse.org/SDB:Installing_Java
+
+
 ### Windows and Oracle Java
 
 The "modern" way:
